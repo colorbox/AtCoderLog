@@ -8,7 +8,6 @@ function r_search(input){
   var current_input = reverse(input);
 
   length_check_loop: while(current_input!=""){
-    if(current_input==""){return true;}
     for(word of reversed_words){
       
       if(current_input.startsWith(word)){
