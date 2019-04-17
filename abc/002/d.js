@@ -29,6 +29,15 @@ function diff_seq_arr(arr){
   return ret
 }
 
+// wrong pattern with wrong diff_seq_arr
+//function diff_seq_arr(arr){
+//  ret = []
+//  for( var i=0 ; i<arr.length ; i++ ){
+//    ret.push(arr.slice(i, arr.length))
+//  }
+//  return ret
+//}
+
 function make_faction(faction, target, group, relations){
 
   if(target == null){
