@@ -1,72 +1,87 @@
-function union(setA, setB) {
-    var _union = new Set(setA);
-    for (var elem of setB) {
-        _union.add(elem);
+
+// 配列に全部の島のデータを突っ込む
+// 各島はparent,sizeから成る、自分がどの島かはインデックスで判断。
+
+function UnionFind(n){
+  this.islands = [];
+  for(var i=0; i<n; i++){
+    this.islands[i] = {
+      parent: i,
+      size: 1,
     }
-    return _union;
+  }
 }
 
-function create_sets_of_all(islands_count, bridges){
-  var islands = [];
-  for( var i =0 ; i < islands_count ; i++){
-    islands.push(new Set([i+1]));
-  }
-
-  for( var i =0 ; i < bridges.length ; i++){
-    var unifyied_set = union(islands[bridges[i][0]-1], islands[bridges[i][1]-1]);
-
-    islands[bridges[i][0]-1] = unifyied_set;
-    islands[bridges[i][1]-1] = unifyied_set;
-
-    for (var elem of unifyied_set){
-      islands[elem-1] = unifyied_set;
-    }
-  }
-  
-  return new Set(islands);
+UnionFind.prototype.same_group = function(left_index, right_index){
+  const right_root = this.root(right_index);
+  const left_root = this.root(left_index);
+  return (right_root == left_root);
 }
 
-function inconvenience_for_island(elem, parent_set, set_of_all){
-  var result = 0;
-  for(var one_set of set_of_all){
-    if(one_set == parent_set){continue;}
-    for(var element of one_set){
-      if(elem<element){result++;}
-    }
-  }
-  return result;
+UnionFind.prototype.merge_islands = function(left_index, right_index){
+  const right_root = this.root(right_index);
+  const left_root = this.root(left_index);
+
+  if(right_root.parent==left_root.parent){return 0;}
+
+  left_root.size = left_root.size + right_root.size;
+  right_root.parent = left_index;
+
+  return 1;
 }
 
-function inconvenience(set_of_all){
-  if(set_of_all.size == 1){return 0;}
-  result = 0;
-  for(var set_of_islands of set_of_all){
-    for(var island of set_of_islands){
-      result += inconvenience_for_island(island, set_of_islands, set_of_all)
-    }
+UnionFind.prototype.root = function(index){
+  if(this.islands[index].parent == index){
+    return this.islands[index];
   }
-  return result;
+
+  var parent_node = this.root(this.islands[index].parent);
+  this.islands[index].parent = parent_node.parent;
+  return parent_node;
+}
+
+UnionFind.prototype.get_size = function(index){
+  var root_node = this.root(index);
+  return root_node.size;
 }
 
 function main(input) {
   const formatted_input = input.split('\n').map( x => x.split(' ').map( x => parseInt(x, 10) ) );
-
   const N = formatted_input[0][0];
   const M = formatted_input[0][1];
-  const bridges = formatted_input.slice(1);
+  var reverse_bridges = [];
 
-  var initial_inconvenience = inconvenience(create_sets_of_all(N, bridges));
+  for(var i=0;i<M;i++){
+    reverse_bridges.push(formatted_input[1+i]);
+  }
+  reverse_bridges = reverse_bridges.reverse();
 
-  for(var i=1 ; i<=bridges.length ; i++ ){
-      set_of_all = create_sets_of_all(N, bridges.slice(i));
-      
-      //console.log('---');
-      //console.log(initial_inconvenience);
-      //console.log(set_of_all);
-      console.log(inconvenience(set_of_all)-initial_inconvenience );
+  var uf = new UnionFind(N)
+
+  var unconvinience = N*(N-1)/2;
+  var results = [unconvinience];
+
+  for(bridge of reverse_bridges){
+
+    left_index = bridge[0]-1
+    right_index =  bridge[1]-1
+
+    var diff = uf.get_size((left_index)) * uf.get_size(right_index);
+
+    if(uf.merge_islands(left_index, right_index)==1){
+      unconvinience -= diff;
+    }
+    results.push(unconvinience);
+  }
+
+  const reversed_result = results.reverse();
+
+  for(var i = 1; i<=M ; i++){
+    console.log(reversed_result[i]);
   }
 }
 
 main(require('fs').readFileSync('/dev/stdin', 'utf8'));
 
 //02:05:00 > 
+
