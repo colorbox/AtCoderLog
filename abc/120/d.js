@@ -24,8 +24,13 @@ UnionFind.prototype.merge_islands = function(left_index, right_index){
 
   if(right_root.parent==left_root.parent){return 0;}
 
-  left_root.size = left_root.size + right_root.size;
-  right_root.parent = left_index;
+  if(left_root.size > right_root.size){
+    left_root.size = left_root.size + right_root.size;
+    right_root.parent = left_index;
+  }else{
+    right_root.size = left_root.size + right_root.size;
+    left_root.parent = right_index;
+  }
 
   return 1;
 }
