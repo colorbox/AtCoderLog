@@ -4,6 +4,8 @@ Add code to solve problem.
 Add comment with problem rank and time to solve it.
 If take long time to solve, add comment to `long time` or so.
 
+### Solving Matrix
+
 |  |  |  |  |  |
 ----|----|----|----|----
 | 001 | a | b | c | d |
@@ -19,6 +21,7 @@ If take long time to solve, add comment to `long time` or so.
 | 120 | a | b | c | d |
 | 121 | a | b | c |  |
 | 122 | a | b | c |  |
+| 123 | a | b | c |  |
 | 124 | a | b | c | d |
 | 125 | a | b | c | d |
 
