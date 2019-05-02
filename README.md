@@ -19,8 +19,10 @@ If take long time to solve, add comment to `long time` or so.
 | 088 |  | b |  |  |
 | 110 | a | b | c |  |
 | 111 | a | b |  |  |
-| 112 |  |  | c |  |
-| 113 |  |  | c |  |
+| 112 |  |  | [c](https://atcoder.jp/contests/abc112/tasks/abc112_c) |  |
+| 113 |  |  | [c](https://atcoder.jp/contests/abc113/tasks/abc113_c) |  |
+| 114 |  |  | [c](https://atcoder.jp/contests/abc114/tasks/abc114_c) |  |
+| 115 |  |  | [c](https://atcoder.jp/contests/abc115/tasks/abc115_c) |  |
 | 120 | a | b | c | d |
 | 121 | a | b | c |  |
 | 122 | a | b | c |  |
