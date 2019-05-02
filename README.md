@@ -18,6 +18,8 @@ If take long time to solve, add comment to `long time` or so.
 | 087 |  | b |  |  |
 | 088 |  | b |  |  |
 | 110 | a | b | c |  |
+| 111 | a | b |  |  |
+| 112 |  |  | c |  |
 | 120 | a | b | c | d |
 | 121 | a | b | c |  |
 | 122 | a | b | c |  |
