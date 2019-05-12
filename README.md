@@ -6,47 +6,50 @@ If take long time to solve, add comment to `long time` or so.
 
 ### Solving Matrix
 
-|  |  |  |  |  |
+| number | a | b | c | d |
 ----|----|----|----|----
-| 001 | a | b | c | d |
-| 002 | a | b | c | d |
-| 049 |  |  | c |  |
-| 081 | a | b |  |  |
-| 083 |  | b |  |  |
-| 085 |  | b | c |  |
-| 086 | a |  | c |  |
-| 087 |  | b |  |  |
-| 088 |  | b |  |  |
-| [101](https://atcoder.jp/contests/abc101/tasks) |  |  |  |  |
-| [102](https://atcoder.jp/contests/abc102/tasks) |  |  | c |  |
-| [103](https://atcoder.jp/contests/abc103/tasks) |  |  | c |  |
+| [001](https://atcoder.jp/contests/abc001/tasks) | o | o | o | o |
+| [002](https://atcoder.jp/contests/abc002/tasks) | o | o | o | x |
+| [049](https://atcoder.jp/contests/abc049/tasks) |  |  | o |  |
+| [081](https://atcoder.jp/contests/abc081/tasks) | o | o |  |  |
+| [083](https://atcoder.jp/contests/abc083/tasks) |  | o |  |  |
+| [085](https://atcoder.jp/contests/abc085/tasks) |  | o | x |  |
+| [086](https://atcoder.jp/contests/abc086/tasks) | o |  | o |  |
+| [087](https://atcoder.jp/contests/abc087/tasks) |  | o |  |  |
+| [088](https://atcoder.jp/contests/abc088/tasks) |  | o |  |  |
+| [099](https://atcoder.jp/contests/abc099/tasks) |  |  | x |  |
+| [100](https://atcoder.jp/contests/abc100/tasks) |  |  | o |  |
+| [101](https://atcoder.jp/contests/abc101/tasks) |  |  | o |  |
+| [102](https://atcoder.jp/contests/abc102/tasks) |  |  | x |  |
+| [103](https://atcoder.jp/contests/abc103/tasks) |  |  | x |  |
 | [104](https://atcoder.jp/contests/abc104/tasks) |  |  |  |  |
 | [105](https://atcoder.jp/contests/abc105/tasks) |  |  |  |  |
-| [106](https://atcoder.jp/contests/abc106/tasks) |  |  | c |  |
-| [107](https://atcoder.jp/contests/abc107/tasks) |  |  | c |  |
+| [106](https://atcoder.jp/contests/abc106/tasks) |  |  | o |  |
+| [107](https://atcoder.jp/contests/abc107/tasks) |  |  | x |  |
 | [108](https://atcoder.jp/contests/abc108/tasks) |  |  |  |  |
-| [109](https://atcoder.jp/contests/abc109/tasks) |  |  | c |  |
-| [110](https://atcoder.jp/contests/abc110/tasks) | a | b | c |  |
-| [111](https://atcoder.jp/contests/abc111/tasks) | a | b |  |  |
-| [112](https://atcoder.jp/contests/abc112/tasks) |  |  | c |  |
-| [113](https://atcoder.jp/contests/abc113/tasks) |  |  | c |  |
-| [114](https://atcoder.jp/contests/abc114/tasks) |  |  | c |  |
-| [115](https://atcoder.jp/contests/abc115/tasks) |  |  | c |  |
-| [116](https://atcoder.jp/contests/abc116/tasks) |  |  | c |  |
-| [117](https://atcoder.jp/contests/abc117/tasks) |  |  | c |  |
-| [118](https://atcoder.jp/contests/abc118/tasks) |  |  | c |  |
-| 120 | a | b | c | d |
-| 121 | a | b | c |  |
-| 122 | a | b | c |  |
-| 123 | a | b | c |  |
-| 124 | a | b | c | d |
-| 125 | a | b | c | d |
+| [109](https://atcoder.jp/contests/abc109/tasks) |  |  | o |  |
+| [110](https://atcoder.jp/contests/abc110/tasks) | o | o | x |  |
+| [111](https://atcoder.jp/contests/abc111/tasks) | o | o | x |  |
+| [112](https://atcoder.jp/contests/abc112/tasks) |  |  | x |  |
+| [113](https://atcoder.jp/contests/abc113/tasks) |  |  | o |  |
+| [114](https://atcoder.jp/contests/abc114/tasks) |  |  | o |  |
+| [115](https://atcoder.jp/contests/abc115/tasks) |  |  | o |  |
+| [116](https://atcoder.jp/contests/abc116/tasks) |  |  | o |  |
+| [117](https://atcoder.jp/contests/abc117/tasks) |  |  | o |  |
+| [118](https://atcoder.jp/contests/abc118/tasks) |  |  | o |  |
+| [119](https://atcoder.jp/contests/abc119/tasks) |  |  | x |  |
+| [120](https://atcoder.jp/contests/abc120/tasks) | o | o | o | x |
+| [121](https://atcoder.jp/contests/abc121/tasks) | o | o | o |  |
+| [122](https://atcoder.jp/contests/abc122/tasks) | o | o | x |  |
+| [123](https://atcoder.jp/contests/abc123/tasks) | o | o | o |  |
+| [124](https://atcoder.jp/contests/abc124/tasks) | o | o | x | x |
+| [125](https://atcoder.jp/contests/abc125/tasks) | o | o | x | x |
 
 
 ## AGC
 
 ### Solving Matrix
 
-|  |  |  |  |  |
+|  | a | b | c | d |
 ----|----|----|----|----
-| 033 | a |  |  |  |
+| 033 | x |  |  |  |
