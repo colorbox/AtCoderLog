@@ -17,6 +17,10 @@ If take long time to solve, add comment to `long time` or so.
 | [086](https://atcoder.jp/contests/abc086/tasks) | o |  | o |  |
 | [087](https://atcoder.jp/contests/abc087/tasks) |  | o |  |  |
 | [088](https://atcoder.jp/contests/abc088/tasks) |  | o |  |  |
+| [091](https://atcoder.jp/contests/abc091/tasks) |  |  |  |  |
+| [092](https://atcoder.jp/contests/abc092/tasks) |  |  | o |  |
+| [093](https://atcoder.jp/contests/abc093/tasks) |  |  | o |  |
+| [094](https://atcoder.jp/contests/abc094/tasks) |  |  | o |  |
 | [095](https://atcoder.jp/contests/abc095/tasks) |  |  | o |  |
 | [096](https://atcoder.jp/contests/abc096/tasks) |  |  | o |  |
 | [097](https://atcoder.jp/contests/abc097/tasks) |  |  | x |  |
@@ -27,10 +31,10 @@ If take long time to solve, add comment to `long time` or so.
 | [102](https://atcoder.jp/contests/abc102/tasks) |  |  | x |  |
 | [103](https://atcoder.jp/contests/abc103/tasks) |  |  | x |  |
 | [104](https://atcoder.jp/contests/abc104/tasks) |  |  |  |  |
-| [105](https://atcoder.jp/contests/abc105/tasks) |  |  |  |  |
+| [105](https://atcoder.jp/contests/abc105/tasks) |  |  | x |  |
 | [106](https://atcoder.jp/contests/abc106/tasks) |  |  | o |  |
 | [107](https://atcoder.jp/contests/abc107/tasks) |  |  | x |  |
-| [108](https://atcoder.jp/contests/abc108/tasks) |  |  |  |  |
+| [108](https://atcoder.jp/contests/abc108/tasks) |  |  | x |  |
 | [109](https://atcoder.jp/contests/abc109/tasks) |  |  | o |  |
 | [110](https://atcoder.jp/contests/abc110/tasks) | o | o | x |  |
 | [111](https://atcoder.jp/contests/abc111/tasks) | o | o | x |  |
@@ -48,6 +52,8 @@ If take long time to solve, add comment to `long time` or so.
 | [123](https://atcoder.jp/contests/abc123/tasks) | o | o | o |  |
 | [124](https://atcoder.jp/contests/abc124/tasks) | o | o | x | x |
 | [125](https://atcoder.jp/contests/abc125/tasks) | o | o | x | x |
+| [126](https://atcoder.jp/contests/abc126/tasks) | o | o | o |  |
+| [127](https://atcoder.jp/contests/abc126/tasks) | o | o | o | x |
 
 
 ## AGC
@@ -57,3 +63,17 @@ If take long time to solve, add comment to `long time` or so.
 |  | a | b | c | d |
 ----|----|----|----|----
 | 033 | x |  |  |  |
+
+
+## Others
+
+### Solving Matrix
+
+|  | a | b | c | d |
+----|----|----|----|----
+| [diverta](https://atcoder.jp/contests/diverta2019/tasks) | o | x | o | x |
+| [Tenka1 Programmer Beginner Contest 2019](https://atcoder.jp/contests/tenka1-2019-beginner/submissions/me) | o | o | x |  |
+
+
+
+
