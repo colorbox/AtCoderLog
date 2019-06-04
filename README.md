@@ -55,7 +55,7 @@ If take long time to solve, add comment to `long time` or so.
 | [125](https://atcoder.jp/contests/abc125/tasks) | o | o | x | x |
 | [126](https://atcoder.jp/contests/abc126/tasks) | o | o | o |  |
 | [127](https://atcoder.jp/contests/abc127/tasks) | o | o | o | x |
-| [128](https://atcoder.jp/contests/abc128/tasks) | o | o |  |  |
+| [128](https://atcoder.jp/contests/abc128/tasks) | o | o | x|  |
 
 
 ## AGC
@@ -65,6 +65,7 @@ If take long time to solve, add comment to `long time` or so.
 |  | a | b | c | d |
 ----|----|----|----|----
 | 033 | x |  |  |  |
+| 033 | o | x |  |  |
 
 
 ## Others
