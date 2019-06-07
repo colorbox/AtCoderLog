@@ -11,6 +11,7 @@ If take long time to solve, add comment to `long time` or so.
 | [001](https://atcoder.jp/contests/abc001/tasks) | o | o | o | o |
 | [002](https://atcoder.jp/contests/abc002/tasks) | o | o | o | x |
 | [049](https://atcoder.jp/contests/abc049/tasks) |  |  | o |  |
+| [080](https://atcoder.jp/contests/abc080/tasks) |  |  |  | x |
 | [081](https://atcoder.jp/contests/abc081/tasks) | o | o |  |  |
 | [083](https://atcoder.jp/contests/abc083/tasks) |  | o |  |  |
 | [085](https://atcoder.jp/contests/abc085/tasks) |  | o | x |  |
