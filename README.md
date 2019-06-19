@@ -6,11 +6,12 @@ If take long time to solve, add comment to `long time` or so.
 
 ### Solving Matrix
 
-| number | a | b | c | d |
-----|----|----|----|----
+| number | a | b | c | d | e | f |
+----|----|----|----|----|----|----|
 | [001](https://atcoder.jp/contests/abc001/tasks) | o | o | o | o |
 | [002](https://atcoder.jp/contests/abc002/tasks) | o | o | o | x |
 | [049](https://atcoder.jp/contests/abc049/tasks) |  |  | o |  |
+| [077](https://atcoder.jp/contests/abc077/tasks) |  |  |  | x |
 | [078](https://atcoder.jp/contests/abc078/tasks) |  |  |  | o |
 | [079](https://atcoder.jp/contests/abc079/tasks) |  |  |  | x |
 | [080](https://atcoder.jp/contests/abc080/tasks) |  |  |  | x |
@@ -61,6 +62,7 @@ If take long time to solve, add comment to `long time` or so.
 | [127](https://atcoder.jp/contests/abc127/tasks) | o | o | o | x |
 | [128](https://atcoder.jp/contests/abc128/tasks) | o | o | x |  |
 | [129](https://atcoder.jp/contests/abc129/tasks) | o | o | x |  |
+| [130](https://atcoder.jp/contests/abc129/tasks) | o | o | o | o |  |  |
 
 
 ## AGC
@@ -81,6 +83,7 @@ If take long time to solve, add comment to `long time` or so.
 ----|----|----|----|----
 | [diverta](https://atcoder.jp/contests/diverta2019/tasks) | o | x | o | x |
 | [Tenka1 Programmer Beginner Contest 2019](https://atcoder.jp/contests/tenka1-2019-beginner/submissions/me) | o | o | x |  |
+| [divertapart-2](https://atcoder.jp/contests/diverta2019-2/tasks) | o | x |  |  |
 
 
 
