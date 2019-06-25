@@ -22,6 +22,19 @@ function main(input){
 
     //console.log(dp);
 
+    //valueがcurrent_value以上なら、合算weightを入れられる
+    //合算weightはその前のマスにある値(weight)とcurrent_weightを足したもの
+
+    //その時、今のマス目を見みて入れ方を変える
+    //今のマス目インデックス(value)に何もなければcurrent_weightをそのまま入れる、
+    // 今のマス目に何かあれば、前のマス目の値(weight)とcurrent_weightを足したものとで値(weight)を比較、低い方を入れる。
+
+    // current_valueがvalue未満ならcurrent_weightを入れるが、マス目に値があるかどうかで分岐する。
+    // マス目に何も入っていなければcurrent_weightを入れる
+    // なにか入っていれば比較を行い、軽い方を入れる。
+
+    //そのインデックスになにかある、かつcurrent_valueがvalueよりも大きいとそのvalueはそこに入らないので、そのままにしておく
+
     for(var value=value_sum;value>0;value--){
 
       if(value >= current_value){
