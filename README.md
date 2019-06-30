@@ -139,6 +139,7 @@ If take long time to solve, add comment to `long time` or so.
 | [129](https://atcoder.jp/contests/abc129/tasks) | o | o | x |  |
 | [130](https://atcoder.jp/contests/abc130/tasks) | o | o | o | o |  |  |
 | [131](https://atcoder.jp/contests/abc131/tasks) | o | o | x | x |  |  |
+| [132](https://atcoder.jp/contests/abc132/tasks) | o | o | o | x |  |  |
 
 
 ## AGC
