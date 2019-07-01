@@ -66,7 +66,7 @@ If take long time to solve, add comment to `long time` or so.
 | [056](https://atcoder.jp/contests/abc056/tasks) |  |  |  |  |
 | [057](https://atcoder.jp/contests/abc057/tasks) |  |  |  |  |
 | [058](https://atcoder.jp/contests/abc058/tasks) |  |  |  |  |
-| [059](https://atcoder.jp/contests/abc059/tasks) |  |  |  |  |
+| [059](https://atcoder.jp/contests/abc059/tasks) |  |  | o |  |
 | [060](https://atcoder.jp/contests/abc060/tasks) |  |  | o |  |
 | [061](https://atcoder.jp/contests/abc061/tasks) |  |  | o |  |
 | [062](https://atcoder.jp/contests/abc062/tasks) |  |  | x |  |
