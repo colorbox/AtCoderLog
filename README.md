@@ -49,7 +49,7 @@ If take long time to solve, add comment to `long time` or so.
 | [039](https://atcoder.jp/contests/abc039/tasks) |  |  |  |  |
 | [040](https://atcoder.jp/contests/abc040/tasks) |  |  |  |  |
 | [041](https://atcoder.jp/contests/abc041/tasks) |  |  |  |  |
-| [042](https://atcoder.jp/contests/abc042/tasks) |  |  |  |  |
+| [042](https://atcoder.jp/contests/abc042/tasks) |  |  | o |  |
 | [043](https://atcoder.jp/contests/abc043/tasks) |  |  | o |  |
 | [044](https://atcoder.jp/contests/abc044/tasks) |  |  | x |  |
 | [045](https://atcoder.jp/contests/abc045/tasks) |  |  | o |  |
