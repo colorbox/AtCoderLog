@@ -37,7 +37,7 @@ If take long time to solve, add comment to `long time` or so.
 | [027](https://atcoder.jp/contests/abc027/tasks) |  |  |  |  |
 | [028](https://atcoder.jp/contests/abc028/tasks) |  |  |  |  |
 | [029](https://atcoder.jp/contests/abc029/tasks) |  |  |  |  |
-| [030](https://atcoder.jp/contests/abc030/tasks) |  |  |  |  |
+| [030](https://atcoder.jp/contests/abc030/tasks) |  |  | o |  |
 | [031](https://atcoder.jp/contests/abc031/tasks) |  |  | x |  |
 | [032](https://atcoder.jp/contests/abc032/tasks) |  |  | o |  |
 | [033](https://atcoder.jp/contests/abc033/tasks) |  |  | o |  |
