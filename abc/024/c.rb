@@ -41,4 +41,3 @@ end
 results.each do |result|
   p result
 end
-
