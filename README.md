@@ -26,8 +26,8 @@ If take long time to solve, add comment to `long time` or so.
 | [016](https://atcoder.jp/contests/abc016/tasks) |  |  |  |  |
 | [017](https://atcoder.jp/contests/abc017/tasks) |  |  |  |  |
 | [018](https://atcoder.jp/contests/abc018/tasks) |  |  |  |  |
-| [019](https://atcoder.jp/contests/abc019/tasks) |  |  |  |  |
-| [020](https://atcoder.jp/contests/abc020/tasks) |  |  |  |  |
+| [019](https://atcoder.jp/contests/abc019/tasks) |  |  | o |  |
+| [020](https://atcoder.jp/contests/abc020/tasks) |  |  | x |  |
 | [021](https://atcoder.jp/contests/abc021/tasks) |  |  | x |  |
 | [022](https://atcoder.jp/contests/abc022/tasks) |  |  | x |  |
 | [023](https://atcoder.jp/contests/abc023/tasks) |  |  | x |  |
