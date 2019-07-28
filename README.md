@@ -14,9 +14,9 @@ If take long time to solve, add comment to `long time` or so.
 | [004](https://atcoder.jp/contests/abc004/tasks) |  |  |  |  |
 | [005](https://atcoder.jp/contests/abc005/tasks) |  |  |  |  |
 | [006](https://atcoder.jp/contests/abc006/tasks) |  |  |  |  |
-| [007](https://atcoder.jp/contests/abc007/tasks) |  |  |  |  |
-| [008](https://atcoder.jp/contests/abc008/tasks) |  |  |  |  |
-| [009](https://atcoder.jp/contests/abc009/tasks) |  |  |  |  |
+| [007](https://atcoder.jp/contests/abc007/tasks) |  |  | o |  |
+| [008](https://atcoder.jp/contests/abc008/tasks) |  |  | - |  |
+| [009](https://atcoder.jp/contests/abc009/tasks) |  |  | - |  |
 | [010](https://atcoder.jp/contests/abc010/tasks) |  |  | o |  |
 | [011](https://atcoder.jp/contests/abc011/tasks) |  |  | x |  |
 | [012](https://atcoder.jp/contests/abc012/tasks) |  |  | o |  |
