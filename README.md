@@ -142,7 +142,8 @@ If take long time to solve, add comment to `long time` or so.
 | [132](https://atcoder.jp/contests/abc132/tasks) | o | o | o | x |  |  |
 | [133](https://atcoder.jp/contests/abc133/tasks) | o | o | o | x |  |  |
 | [134](https://atcoder.jp/contests/abc134/tasks) | o | o | o | o |  |  |
-| [134](https://atcoder.jp/contests/abc135/tasks) | o | o | o | x |  |  |
+| [135](https://atcoder.jp/contests/abc135/tasks) | o | o | o | x |  |  |
+| [136](https://atcoder.jp/contests/abc136/tasks) | o | o | x | x |  |  |
 
 
 ## AGC
