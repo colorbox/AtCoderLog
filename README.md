@@ -150,7 +150,7 @@ If take long time to solve, add comment to `long time` or so.
 
 | - | a | b | c | d |
 ----|----|----|----|----|
-| [001](https://atcoder.jp/contests/arc001/tasks) |  |  |  |  |
+| [001](https://atcoder.jp/contests/arc001/tasks) | o |  |  |  |
 | [002](https://atcoder.jp/contests/arc002/tasks) |  |  |  |  |
 | [003](https://atcoder.jp/contests/arc003/tasks) |  |  |  |  |
 | [004](https://atcoder.jp/contests/arc004/tasks) |  |  |  |  |
