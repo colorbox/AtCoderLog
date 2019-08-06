@@ -206,7 +206,7 @@ If take long time to solve, add comment to `long time` or so.
 | [054](https://atcoder.jp/contests/arc054/tasks) |  |  |  |  |
 | [055](https://atcoder.jp/contests/arc055/tasks) |  |  |  |  |
 | [056](https://atcoder.jp/contests/arc056/tasks) |  |  |  |  |
-| [057](https://atcoder.jp/contests/arc057/tasks) |  |  |  |  |
+| [057](https://atcoder.jp/contests/arc057/tasks) | x |  |  |  |
 
 ## AGC
 
