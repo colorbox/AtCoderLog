@@ -155,7 +155,7 @@ If take long time to solve, add comment to `long time` or so.
 | [003](https://atcoder.jp/contests/arc003/tasks) | o |  |  |  |
 | [004](https://atcoder.jp/contests/arc004/tasks) | o |  |  |  |
 | [005](https://atcoder.jp/contests/arc005/tasks) | o |  |  |  |
-| [006](https://atcoder.jp/contests/arc006/tasks) |  |  |  |  |
+| [006](https://atcoder.jp/contests/arc006/tasks) | o |  |  |  |
 | [007](https://atcoder.jp/contests/arc007/tasks) |  |  |  |  |
 | [008](https://atcoder.jp/contests/arc008/tasks) |  |  |  |  |
 | [009](https://atcoder.jp/contests/arc009/tasks) |  |  |  |  |
