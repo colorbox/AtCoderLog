@@ -101,7 +101,7 @@ If take long time to solve, add comment to `long time` or so.
 | [091](https://atcoder.jp/contests/abc091/tasks) |  |  | x |  |
 | [092](https://atcoder.jp/contests/abc092/tasks) |  |  | o |  |
 | [093](https://atcoder.jp/contests/abc093/tasks) |  |  | o |  |
-| [094](https://atcoder.jp/contests/abc094/tasks) |  |  | o |  |
+| [094](https://atcoder.jp/contests/abc094/tasks) |  |  | o | o |
 | [095](https://atcoder.jp/contests/abc095/tasks) |  |  | o |  |
 | [096](https://atcoder.jp/contests/abc096/tasks) |  |  | o |  |
 | [097](https://atcoder.jp/contests/abc097/tasks) |  |  | x |  |
