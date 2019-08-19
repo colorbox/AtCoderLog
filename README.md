@@ -97,7 +97,7 @@ If take long time to solve, add comment to `long time` or so.
 | [087](https://atcoder.jp/contests/abc087/tasks) |  | o | o | x |
 | [088](https://atcoder.jp/contests/abc088/tasks) |  | o | o | x |
 | [089](https://atcoder.jp/contests/abc089/tasks) |  |  | x | x |
-| [090](https://atcoder.jp/contests/abc090/tasks) |  |  | o |  |
+| [090](https://atcoder.jp/contests/abc090/tasks) |  |  | o | x |
 | [091](https://atcoder.jp/contests/abc091/tasks) |  |  | x |  |
 | [092](https://atcoder.jp/contests/abc092/tasks) |  |  | o |  |
 | [093](https://atcoder.jp/contests/abc093/tasks) |  |  | o |  |
