@@ -82,7 +82,7 @@ If take long time to solve, add comment to `long time` or so.
 | [072](https://atcoder.jp/contests/abc072/tasks) |  |  | o | o |
 | [073](https://atcoder.jp/contests/abc073/tasks) |  |  | o | x |
 | [074](https://atcoder.jp/contests/abc074/tasks) |  |  | x |  |
-| [075](https://atcoder.jp/contests/abc075/tasks) |  |  | x |    |
+| [075](https://atcoder.jp/contests/abc075/tasks) |  |  | x | x |
 | [076](https://atcoder.jp/contests/abc076/tasks) |  |  | xo | - |
 | [077](https://atcoder.jp/contests/abc077/tasks) |  |  | xo | x |
 | [078](https://atcoder.jp/contests/abc078/tasks) |  |  | o | o |
