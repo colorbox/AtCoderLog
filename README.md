@@ -103,7 +103,7 @@ If take long time to solve, add comment to `long time` or so.
 | [093](https://atcoder.jp/contests/abc093/tasks) |  |  | o |  |
 | [094](https://atcoder.jp/contests/abc094/tasks) |  |  | o | o |
 | [095](https://atcoder.jp/contests/abc095/tasks) |  |  | o |  |
-| [096](https://atcoder.jp/contests/abc096/tasks) |  |  | o |  |
+| [096](https://atcoder.jp/contests/abc096/tasks) |  |  | o | x |
 | [097](https://atcoder.jp/contests/abc097/tasks) |  |  | x | x |
 | [098](https://atcoder.jp/contests/abc098/tasks) |  |  | o |  |
 | [099](https://atcoder.jp/contests/abc099/tasks) |  |  | x | o |
