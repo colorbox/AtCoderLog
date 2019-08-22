@@ -126,7 +126,7 @@ If take long time to solve, add comment to `long time` or so.
 | [116](https://atcoder.jp/contests/abc116/tasks) |  |  | o |  |
 | [117](https://atcoder.jp/contests/abc117/tasks) |  |  | o |  |
 | [118](https://atcoder.jp/contests/abc118/tasks) |  |  | o |  |
-| [119](https://atcoder.jp/contests/abc119/tasks) |  |  | x |  |
+| [119](https://atcoder.jp/contests/abc119/tasks) |  |  | x | x |
 | [120](https://atcoder.jp/contests/abc120/tasks) | o | o | o | x |
 | [121](https://atcoder.jp/contests/abc121/tasks) | o | o | o |  |
 | [122](https://atcoder.jp/contests/abc122/tasks) | o | o | x |  |
