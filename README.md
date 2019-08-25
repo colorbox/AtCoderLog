@@ -52,7 +52,7 @@ If take long time to solve, add comment to `long time` or so.
 | [042](https://atcoder.jp/contests/abc042/tasks) |  |  | o | o |
 | [043](https://atcoder.jp/contests/abc043/tasks) |  |  | o | o |
 | [044](https://atcoder.jp/contests/abc044/tasks) |  |  | x |  |
-| [045](https://atcoder.jp/contests/abc045/tasks) |  |  | o |  |
+| [045](https://atcoder.jp/contests/abc045/tasks) |  |  | o | x |
 | [046](https://atcoder.jp/contests/abc046/tasks) |  |  | x | o |
 | [047](https://atcoder.jp/contests/abc047/tasks) |  |  | o | x |
 | [048](https://atcoder.jp/contests/abc048/tasks) |  |  | o |  |
