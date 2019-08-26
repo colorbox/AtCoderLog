@@ -70,7 +70,7 @@ If take long time to solve, add comment to `long time` or so.
 | [060](https://atcoder.jp/contests/abc060/tasks) |  |  | o | o |
 | [061](https://atcoder.jp/contests/abc061/tasks) |  |  | o |  |
 | [062](https://atcoder.jp/contests/abc062/tasks) |  |  | x |  |
-| [063](https://atcoder.jp/contests/abc063/tasks) |  |  | o |  |
+| [063](https://atcoder.jp/contests/abc063/tasks) |  |  | o | x |
 | [064](https://atcoder.jp/contests/abc064/tasks) |  |  | o | o |
 | [065](https://atcoder.jp/contests/abc065/tasks) |  |  | o | - |
 | [066](https://atcoder.jp/contests/abc066/tasks) |  |  | o |  |
