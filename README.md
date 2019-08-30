@@ -129,7 +129,7 @@ If take long time to solve, add comment to `long time` or so.
 | [119](https://atcoder.jp/contests/abc119/tasks) |  |  | x | x |
 | [120](https://atcoder.jp/contests/abc120/tasks) | o | o | o | x |
 | [121](https://atcoder.jp/contests/abc121/tasks) | o | o | o |  |
-| [122](https://atcoder.jp/contests/abc122/tasks) | o | o | x |  |
+| [122](https://atcoder.jp/contests/abc122/tasks) | o | o | x | x |
 | [123](https://atcoder.jp/contests/abc123/tasks) | o | o | o | x |
 | [124](https://atcoder.jp/contests/abc124/tasks) | o | o | x | x |
 | [125](https://atcoder.jp/contests/abc125/tasks) | o | o | x | x |
