@@ -123,8 +123,8 @@ If take long time to solve, add comment to `long time` or so.
 | [113](https://atcoder.jp/contests/abc113/tasks) |  |  | o | x |
 | [114](https://atcoder.jp/contests/abc114/tasks) |  |  | o | x |
 | [115](https://atcoder.jp/contests/abc115/tasks) |  |  | o | x |
-| [116](https://atcoder.jp/contests/abc116/tasks) |  |  | o |  |
 | [117](https://atcoder.jp/contests/abc117/tasks) |  |  | o |  |
+| [116](https://atcoder.jp/contests/abc116/tasks) |  |  | o | x |
 | [118](https://atcoder.jp/contests/abc118/tasks) |  |  | o | x |
 | [119](https://atcoder.jp/contests/abc119/tasks) |  |  | x | x |
 | [120](https://atcoder.jp/contests/abc120/tasks) | o | o | o | x |
