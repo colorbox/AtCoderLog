@@ -133,7 +133,7 @@ If take long time to solve, add comment to `long time` or so.
 | [123](https://atcoder.jp/contests/abc123/tasks) | o | o | o | x |
 | [124](https://atcoder.jp/contests/abc124/tasks) | o | o | x | x |
 | [125](https://atcoder.jp/contests/abc125/tasks) | o | o | x | x |
-| [126](https://atcoder.jp/contests/abc126/tasks) | o | o | o |  |
+| [126](https://atcoder.jp/contests/abc126/tasks) | o | o | o | o |
 | [127](https://atcoder.jp/contests/abc127/tasks) | o | o | o | x |
 | [128](https://atcoder.jp/contests/abc128/tasks) | o | o | x | o |
 | [129](https://atcoder.jp/contests/abc129/tasks) | o | o | x | x |
