@@ -40,7 +40,7 @@ If take long time to solve, add comment to `long time` or so.
 | [030](https://atcoder.jp/contests/abc030/tasks) |  |  | o |  |
 | [031](https://atcoder.jp/contests/abc031/tasks) |  |  | x |  |
 | [032](https://atcoder.jp/contests/abc032/tasks) |  |  | o |  |
-| [033](https://atcoder.jp/contests/abc033/tasks) |  |  | o |  |
+| [033](https://atcoder.jp/contests/abc033/tasks) |  |  | o | - |
 | [034](https://atcoder.jp/contests/abc034/tasks) |  |  | x |  |
 | [035](https://atcoder.jp/contests/abc035/tasks) |  |  | x |  |
 | [036](https://atcoder.jp/contests/abc036/tasks) |  |  | o |  |
@@ -89,7 +89,7 @@ If take long time to solve, add comment to `long time` or so.
 | [079](https://atcoder.jp/contests/abc079/tasks) |  |  | o | xo |
 | [080](https://atcoder.jp/contests/abc080/tasks) |  |  | x | x |
 | [081](https://atcoder.jp/contests/abc081/tasks) | o | o | x | x |
-| [082](https://atcoder.jp/contests/abc082/tasks) |  |  | o |  |
+| [082](https://atcoder.jp/contests/abc082/tasks) |  |  | o | - |
 | [083](https://atcoder.jp/contests/abc083/tasks) |  | o | o |  |
 | [084](https://atcoder.jp/contests/abc084/tasks) |  |  | o | o |
 | [085](https://atcoder.jp/contests/abc085/tasks) |  | o | x | x |
@@ -111,7 +111,7 @@ If take long time to solve, add comment to `long time` or so.
 | [101](https://atcoder.jp/contests/abc101/tasks) |  |  | o |  |
 | [102](https://atcoder.jp/contests/abc102/tasks) |  |  | x |  |
 | [103](https://atcoder.jp/contests/abc103/tasks) |  |  | x | x |
-| [104](https://atcoder.jp/contests/abc104/tasks) |  |  | x |  |
+| [104](https://atcoder.jp/contests/abc104/tasks) |  |  | x | - |
 | [105](https://atcoder.jp/contests/abc105/tasks) |  |  | xx | o |
 | [106](https://atcoder.jp/contests/abc106/tasks) |  |  | o | x |
 | [107](https://atcoder.jp/contests/abc107/tasks) |  |  | x |  |
@@ -123,8 +123,8 @@ If take long time to solve, add comment to `long time` or so.
 | [113](https://atcoder.jp/contests/abc113/tasks) |  |  | o | x |
 | [114](https://atcoder.jp/contests/abc114/tasks) |  |  | o | x |
 | [115](https://atcoder.jp/contests/abc115/tasks) |  |  | o | x |
-| [117](https://atcoder.jp/contests/abc117/tasks) |  |  | o |  |
 | [116](https://atcoder.jp/contests/abc116/tasks) |  |  | o | x |
+| [117](https://atcoder.jp/contests/abc117/tasks) |  |  | o | - |
 | [118](https://atcoder.jp/contests/abc118/tasks) |  |  | o | x |
 | [119](https://atcoder.jp/contests/abc119/tasks) |  |  | x | x |
 | [120](https://atcoder.jp/contests/abc120/tasks) | o | o | o | x |
