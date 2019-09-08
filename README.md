@@ -146,6 +146,7 @@ If take long time to solve, add comment to `long time` or so.
 | [136](https://atcoder.jp/contests/abc136/tasks) | o | o | x | x |  |  |
 | [137](https://atcoder.jp/contests/abc137/tasks) | o | o | o | x | x |  |
 | [138](https://atcoder.jp/contests/abc138/tasks) | o | o | o | x |  |  |
+| [139](https://atcoder.jp/contests/abc139/tasks) | o | o | o | o |  |  |
 
 
 ## ARC
