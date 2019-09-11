@@ -68,14 +68,23 @@ end
 
 
 pq = PriorityQueue.new()
-
-pq.push(3)
-pq.push(1)
-pq.push(2)
+arr = %w(10 1 5 3 8 12 13 43 54 65).map(&:to_i)
+arr = %w(1 1 1 1 1 1 14).map(&:to_i)
+expected = arr.sort
+arr.each do |e|
+  pq.push(e)
+  # byebug
+end
+target=[]
 p pq.data
-
-pq.size.times do
-  p pq.pop
+pq.data.size.times do
+  target.push(pq.pop)
   p pq.data
 end
+
+p "---"
+p expected
+p target
+p expected == target
+p pq.data
 
