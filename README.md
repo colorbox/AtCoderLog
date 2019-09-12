@@ -90,7 +90,7 @@ If take long time to solve, add comment to `long time` or so.
 | [080](https://atcoder.jp/contests/abc080/tasks) |  |  | x | x |
 | [081](https://atcoder.jp/contests/abc081/tasks) | o | o | x | x |
 | [082](https://atcoder.jp/contests/abc082/tasks) |  |  | o | - |
-| [083](https://atcoder.jp/contests/abc083/tasks) |  | o | o |  |
+| [083](https://atcoder.jp/contests/abc083/tasks) |  | o | o | x |
 | [084](https://atcoder.jp/contests/abc084/tasks) |  |  | o | o |
 | [085](https://atcoder.jp/contests/abc085/tasks) |  | o | x | x |
 | [086](https://atcoder.jp/contests/abc086/tasks) | o |  | o |  |
