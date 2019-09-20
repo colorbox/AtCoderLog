@@ -9,7 +9,7 @@ If take long time to solve, add comment to `long time` or so.
 | - | a | b | c | d | e | f |
 ----|----|----|----|----|----|----|
 | [001](https://atcoder.jp/contests/abc001/tasks) | o | o | o | o |
-| [002](https://atcoder.jp/contests/abc002/tasks) | o | o | o | x |
+| [002](https://atcoder.jp/contests/abc002/tasks) | o | o | o | xo |
 | [003](https://atcoder.jp/contests/abc003/tasks) |  |  | o |  |
 | [004](https://atcoder.jp/contests/abc004/tasks) |  |  | o |  |
 | [005](https://atcoder.jp/contests/abc005/tasks) |  |  | o |  |
