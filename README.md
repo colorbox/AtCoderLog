@@ -110,7 +110,7 @@ If take long time to solve, add comment to `long time` or so.
 | [100](https://atcoder.jp/contests/abc100/tasks) |  |  | o | x |
 | [101](https://atcoder.jp/contests/abc101/tasks) |  |  | o |  |
 | [102](https://atcoder.jp/contests/abc102/tasks) |  |  | x |  |
-| [103](https://atcoder.jp/contests/abc103/tasks) |  |  | x | x |
+| [103](https://atcoder.jp/contests/abc103/tasks) |  |  | x | xo |
 | [104](https://atcoder.jp/contests/abc104/tasks) |  |  | x | - |
 | [105](https://atcoder.jp/contests/abc105/tasks) |  |  | xx | o |
 | [106](https://atcoder.jp/contests/abc106/tasks) |  |  | o | x |
