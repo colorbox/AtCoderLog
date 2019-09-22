@@ -190,7 +190,7 @@ If take long time to solve, add comment to `long time` or so.
 | [033](https://atcoder.jp/contests/arc033/tasks) |  |  |  |  |
 | [034](https://atcoder.jp/contests/arc034/tasks) |  |  |  |  |
 | [035](https://atcoder.jp/contests/arc035/tasks) |  |  |  |  |
-| [036](https://atcoder.jp/contests/arc036/tasks) |  |  |  |  |
+| [036](https://atcoder.jp/contests/arc036/tasks) |  |  | x |  |
 | [037](https://atcoder.jp/contests/arc037/tasks) |  |  |  |  |
 | [038](https://atcoder.jp/contests/arc038/tasks) |  |  |  |  |
 | [039](https://atcoder.jp/contests/arc039/tasks) |  |  |  |  |
