@@ -19,7 +19,7 @@ If take long time to solve, add comment to `long time` or so.
 | [009](https://atcoder.jp/contests/abc009/tasks) |  |  | x |  |
 | [010](https://atcoder.jp/contests/abc010/tasks) |  |  | o |  |
 | [011](https://atcoder.jp/contests/abc011/tasks) |  |  | x |  |
-| [012](https://atcoder.jp/contests/abc012/tasks) |  |  | o |  |
+| [012](https://atcoder.jp/contests/abc012/tasks) |  |  | o | o |
 | [013](https://atcoder.jp/contests/abc013/tasks) |  |  | x |  |
 | [014](https://atcoder.jp/contests/abc014/tasks) |  |  | o |  |
 | [015](https://atcoder.jp/contests/abc015/tasks) |  |  | x |  |
