@@ -204,7 +204,7 @@ If take long time to solve, add comment to `long time` or so.
 | [047](https://atcoder.jp/contests/arc047/tasks) |  |  |  |  |
 | [048](https://atcoder.jp/contests/arc048/tasks) |  |  |  |  |
 | [049](https://atcoder.jp/contests/arc049/tasks) |  |  |  |  |
-| [050](https://atcoder.jp/contests/arc050/tasks) |  |  |  |  |
+| [050](https://atcoder.jp/contests/arc050/tasks) |  | x |  |  |
 | [051](https://atcoder.jp/contests/arc051/tasks) |  |  |  |  |
 | [052](https://atcoder.jp/contests/arc052/tasks) |  |  |  |  |
 | [053](https://atcoder.jp/contests/arc053/tasks) |  |  |  |  |
