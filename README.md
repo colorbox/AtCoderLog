@@ -183,7 +183,7 @@ If take long time to solve, add comment to `long time` or so.
 | [026](https://atcoder.jp/contests/arc026/tasks) |  |  |  |  |
 | [027](https://atcoder.jp/contests/arc027/tasks) |  |  |  |  |
 | [028](https://atcoder.jp/contests/arc028/tasks) |  |  |  |  |
-| [029](https://atcoder.jp/contests/arc029/tasks) |  |  |  |  |
+| [029](https://atcoder.jp/contests/arc029/tasks) | o |  |  |  |
 | [030](https://atcoder.jp/contests/arc030/tasks) |  |  |  |  |
 | [031](https://atcoder.jp/contests/arc031/tasks) |  |  |  |  |
 | [032](https://atcoder.jp/contests/arc032/tasks) |  |  |  |  |
