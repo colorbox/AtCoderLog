@@ -191,7 +191,7 @@ If take long time to solve, add comment to `long time` or so.
 | [034](https://atcoder.jp/contests/arc034/tasks) |  |  |  |  |
 | [035](https://atcoder.jp/contests/arc035/tasks) |  |  |  |  |
 | [036](https://atcoder.jp/contests/arc036/tasks) |  |  | x |  |
-| [037](https://atcoder.jp/contests/arc037/tasks) |  |  |  |  |
+| [037](https://atcoder.jp/contests/arc037/tasks) |  | x |  |  |
 | [038](https://atcoder.jp/contests/arc038/tasks) |  |  |  |  |
 | [039](https://atcoder.jp/contests/arc039/tasks) |  |  |  |  |
 | [040](https://atcoder.jp/contests/arc040/tasks) |  |  |  |  |
