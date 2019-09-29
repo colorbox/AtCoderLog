@@ -219,8 +219,8 @@ If take long time to solve, add comment to `long time` or so.
 
 |  | a | b | c | d |
 ----|----|----|----|----
-| 033 | x |  |  |  |
-| 033 | o | x |  |  |
+| 033 | xx |  |  |  |
+| 034 | o | x |  |  |
 
 
 ## Others
