@@ -39,7 +39,7 @@ If take long time to solve, add comment to `long time` or so.
 | [029](https://atcoder.jp/contests/abc029/tasks) |  |  | o |  |
 | [030](https://atcoder.jp/contests/abc030/tasks) |  |  | o |  |
 | [031](https://atcoder.jp/contests/abc031/tasks) |  |  | x |  |
-| [032](https://atcoder.jp/contests/abc032/tasks) |  |  | o |  |
+| [032](https://atcoder.jp/contests/abc032/tasks) |  |  | o | x |
 | [033](https://atcoder.jp/contests/abc033/tasks) |  |  | o | - |
 | [034](https://atcoder.jp/contests/abc034/tasks) |  |  | x |  |
 | [035](https://atcoder.jp/contests/abc035/tasks) |  |  | x | x |
@@ -212,7 +212,7 @@ If take long time to solve, add comment to `long time` or so.
 | [054](https://atcoder.jp/contests/arc054/tasks) |  |  |  |  |
 | [055](https://atcoder.jp/contests/arc055/tasks) |  |  |  |  |
 | [056](https://atcoder.jp/contests/arc056/tasks) | o |  |  |  |
-| [057](https://atcoder.jp/contests/arc057/tasks) | x |  |  |  |
+| [057](https://atcoder.jp/contests/arc057/tasks) | x | x |  |  |
 
 ## AGC
 
