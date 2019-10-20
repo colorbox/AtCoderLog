@@ -150,6 +150,7 @@ If take long time to solve, add comment to `long time` or so.
 | [140](https://atcoder.jp/contests/abc140/tasks) | o | o | o | x |  |  |
 | [141](https://atcoder.jp/contests/abc141/tasks) | o | o | o | o | x |  |
 | [142](https://atcoder.jp/contests/abc142/tasks) | o | o | o | o | x |  |
+| [143](https://atcoder.jp/contests/abc143/tasks) | o | o | o | o | x |  |
 
 
 ## ARC
