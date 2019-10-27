@@ -8,6 +8,7 @@
             "label": "g++-5 build active file",
             "command": "/usr/local/bin/g++-5",
             "args": [
+                "-std=c++1y",
                 "-g",
                 "${file}",
                 "-o",
