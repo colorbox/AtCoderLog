@@ -1,4 +1,5 @@
 //from https://eagletmt.github.io/contests/blog/poj-2431/
+// result : http://poj.org/showsource?solution_id=20995228
 #include<bits/stdc++.h>
 using namespace std;
 
