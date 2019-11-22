@@ -17,11 +17,11 @@ int main(){
   }
   
   pair<string, int> result = make_pair("",0);
-  for(auto &p : m){
+  for(auto p : m){
     if(p.second > result.second)result = make_pair(p.first, p.second);
   }
   
-  cout<<result.first<<endl;
+  cout<<result.first;
 
   return 0;
 }
