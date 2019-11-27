@@ -6,16 +6,15 @@
 using namespace std;
 
 int main(){
-  int h1,w1,h2,w2;
-  cin>>h1>>w1;
-  cin>>h2>>w2;
-
-  if(h1==h2 || h1==w2 || w1==h2 || w1==w2){
-    cout<<"YES"<<endl;
+  ll a,b,x, result=0;
+  cin>>a>>b>>x;
+  if(a==0){
+    result=b/x+1;
   }else{
-    cout<<"NO"<<endl;
+    result = b/x-(a-1)/x;
   }
 
+
+  cout<<result;
   return 0;
 }
-
