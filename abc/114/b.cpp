@@ -6,15 +6,14 @@
 using namespace std;
 
 int main(){
-  int h1,w1,h2,w2;
-  cin>>h1>>w1;
-  cin>>h2>>w2;
+  string s;cin>>s;
 
-  if(h1==h2 || h1==w2 || w1==h2 || w1==w2){
-    cout<<"YES"<<endl;
-  }else{
-    cout<<"NO"<<endl;
+  int result=1000;
+  rep(i,s.size()-2){
+    int c = stoi(s.substr(i,3));
+    result = min(result, abs(753-c));
   }
 
+  cout<<result;
   return 0;
 }

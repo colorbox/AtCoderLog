@@ -6,15 +6,17 @@
 using namespace std;
 
 int main(){
-  int h1,w1,h2,w2;
-  cin>>h1>>w1;
-  cin>>h2>>w2;
+  int a,b;cin>>a>>b;
 
-  if(h1==h2 || h1==w2 || w1==h2 || w1==w2){
-    cout<<"YES"<<endl;
+  int sum = stoi(to_string(a)+to_string(b));
+  int t = (int)pow(sum, 0.5);
+  
+  if(pow(t,2)==sum){
+    cout<<"Yes";
   }else{
-    cout<<"NO"<<endl;
+    cout<<"No";
   }
+
 
   return 0;
 }

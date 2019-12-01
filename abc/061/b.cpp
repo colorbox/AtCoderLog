@@ -6,15 +6,17 @@
 using namespace std;
 
 int main(){
-  int h1,w1,h2,w2;
-  cin>>h1>>w1;
-  cin>>h2>>w2;
+  int n,m;cin>>n>>m;
 
-  if(h1==h2 || h1==w2 || w1==h2 || w1==w2){
-    cout<<"YES"<<endl;
-  }else{
-    cout<<"NO"<<endl;
+  map<int, int> mm;
+  rep(i,m){
+    int a,b;cin>>a>>b;
+    mm[a]++;
+    mm[b]++;
   }
 
+  rep(i,n){
+    cout<<mm[i+1]<<endl;
+  }
   return 0;
 }

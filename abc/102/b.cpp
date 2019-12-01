@@ -6,15 +6,16 @@
 using namespace std;
 
 int main(){
-  int h1,w1,h2,w2;
-  cin>>h1>>w1;
-  cin>>h2>>w2;
+  int n;cin>>n;
 
-  if(h1==h2 || h1==w2 || w1==h2 || w1==w2){
-    cout<<"YES"<<endl;
-  }else{
-    cout<<"NO"<<endl;
+  int ma=0,mi=1e9;
+  rep(i,n){
+    int t;cin>>t;
+    mi=min(mi, t);
+    ma=max(ma, t);
   }
+
+  cout<<ma-mi;
 
   return 0;
 }

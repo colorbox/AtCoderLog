@@ -6,15 +6,14 @@
 using namespace std;
 
 int main(){
-  int h1,w1,h2,w2;
-  cin>>h1>>w1;
-  cin>>h2>>w2;
+  int n;cin>>n;
 
-  if(h1==h2 || h1==w2 || w1==h2 || w1==w2){
-    cout<<"YES"<<endl;
-  }else{
-    cout<<"NO"<<endl;
+  int result=0;
+  rep(i,n){
+    int l,r;cin>>l>>r;
+    result+=(r-l+1);
   }
 
+  cout<<result;
   return 0;
 }

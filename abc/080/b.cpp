@@ -6,14 +6,19 @@
 using namespace std;
 
 int main(){
-  int h1,w1,h2,w2;
-  cin>>h1>>w1;
-  cin>>h2>>w2;
+  int n;cin>>n;
+  int x=n;
 
-  if(h1==h2 || h1==w2 || w1==h2 || w1==w2){
-    cout<<"YES"<<endl;
+  int fx = 0;
+  while(n!=0){
+    fx += n%10;
+    n/=10;
+  }
+
+  if(x%fx==0){
+    cout<<"Yes";
   }else{
-    cout<<"NO"<<endl;
+    cout<<"No";
   }
 
   return 0;
