@@ -8,27 +8,23 @@ using namespace std;
 bool checker(vector<int> counter, map<string, string> m){
   for(auto p : m){
     string k=p.first;
-    string v=p.second;
     int len_c = 0;
 
     rep(i, k.size()) len_c+=counter[(int)(k[i]-'0')];
 
-    if(len_c!=v.size())return false;
+    if(len_c!=p.second.size())return false;
   }
   return true;
 }
 
 vector<int> dfs(int limit, int current, vector<int> counter, map<string, string> m){
-  if(current>=limit+1)return counter;
-//cout<<limit<<':'<<current<<'|';rep(i,limit)cout<<counter[i+1]<<' ';cout<<endl;
+  if(current>limit)return counter;
   rep(i, 3){
     counter[current]=i+1;
     auto tmp = dfs(limit, current+1, counter ,m);
-//    if(tmp.size()>0 && checker(tmp, m)){rep(i,limit)cout<<tmp[i+1]<<' ';cout<<endl;}
-    if(tmp.size()>0 && checker(tmp, m))return tmp;
+    if(checker(tmp, m))return tmp;
   }
-  vector<int>f;
-  return f;
+  return counter;
 }
 
 int main(){
