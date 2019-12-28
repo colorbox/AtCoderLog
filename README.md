@@ -226,6 +226,7 @@ If take long time to solve, add comment to `long time` or so.
 
 |  | a | b | c | d |
 ----|----|----|----|----
+| 011 |  | o |  |  |
 | 033 | xx |  |  |  |
 | 034 | o | x |  |  |
 | 039 | o | x |  |  |
