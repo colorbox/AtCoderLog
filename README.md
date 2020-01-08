@@ -26,7 +26,7 @@ If take long time to solve, add comment to `long time` or so.
 | [016](https://atcoder.jp/contests/abc016/tasks) |  |  | o |  |
 | [017](https://atcoder.jp/contests/abc017/tasks) |  |  | o |  |
 | [018](https://atcoder.jp/contests/abc018/tasks) |  |  | x | o |
-| [019](https://atcoder.jp/contests/abc019/tasks) |  |  | o |  |
+| [019](https://atcoder.jp/contests/abc019/tasks) |  |  | o | x |
 | [020](https://atcoder.jp/contests/abc020/tasks) |  |  | x |  |
 | [021](https://atcoder.jp/contests/abc021/tasks) |  |  | x |  |
 | [022](https://atcoder.jp/contests/abc022/tasks) |  |  | x |  |
@@ -41,7 +41,7 @@ If take long time to solve, add comment to `long time` or so.
 | [031](https://atcoder.jp/contests/abc031/tasks) |  |  | x | x |
 | [032](https://atcoder.jp/contests/abc032/tasks) |  |  | o | x |
 | [033](https://atcoder.jp/contests/abc033/tasks) |  |  | o | - |
-| [034](https://atcoder.jp/contests/abc034/tasks) |  |  | x |  |
+| [034](https://atcoder.jp/contests/abc034/tasks) |  |  | x | x |
 | [035](https://atcoder.jp/contests/abc035/tasks) |  |  | x | x |
 | [036](https://atcoder.jp/contests/abc036/tasks) |  |  | o | x |
 | [037](https://atcoder.jp/contests/abc037/tasks) |  |  | o |  |
@@ -89,7 +89,7 @@ If take long time to solve, add comment to `long time` or so.
 | [079](https://atcoder.jp/contests/abc079/tasks) |  |  | o | xo |
 | [080](https://atcoder.jp/contests/abc080/tasks) |  |  | x | x |
 | [081](https://atcoder.jp/contests/abc081/tasks) | o | o | x | xo |
-| [082](https://atcoder.jp/contests/abc082/tasks) |  |  | o | o |
+| [082](https://atcoder.jp/contests/abc082/tasks) |  |  | o | xo |
 | [083](https://atcoder.jp/contests/abc083/tasks) |  | o | o | x |
 | [084](https://atcoder.jp/contests/abc084/tasks) |  |  | o | o |
 | [085](https://atcoder.jp/contests/abc085/tasks) |  | o | xo | x |
@@ -226,6 +226,7 @@ If take long time to solve, add comment to `long time` or so.
 
 |  | a | b | c | d |
 ----|----|----|----|----
+| 009 | o |  |  |  |
 | 011 |  | o |  |  |
 | 033 | xx |  |  |  |
 | 034 | o | x |  |  |
