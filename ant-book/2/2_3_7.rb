@@ -1,3 +1,5 @@
+# 分割数
+
 require 'byebug'
 
 n, m = gets.strip.split.map(&:to_i)

@@ -1,3 +1,5 @@
+//重複組合せ
+
 #include<bits/stdc++.h>
 
 using namespace std;
