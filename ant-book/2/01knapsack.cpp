@@ -30,14 +30,15 @@ int main(){
       cout<<"-----------"<<endl;
 
       if(j-ws[i]>=0){
-        dp[i+1][j] = max(dp[i][j], dp[i][j-ws[i]]+vs[i]);
+        dp[i+1][j] = max( dp[i][j], dp[i][j-ws[i]]+vs[i]);
       }else{
-        dp[i+1][j] = max( dp[i][j], dp[i][j-1]);
+        dp[i+1][j] = dp[i][j];
       }
     }
 
-    cout<<dp[n][w];
   }
+
+  cout<<dp[n][w];
 
   return 0;
 }
