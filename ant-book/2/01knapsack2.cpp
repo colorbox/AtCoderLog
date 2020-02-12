@@ -5,8 +5,8 @@
 
 using namespace std;
 
-int dp[11][11];
-// dp[i][j]:i個までの品物を使って、重さjで実現可能な最大価値
+int dp[11];
+// dp[j]:重さjで実現可能な最大価値
 
 int main(){
   int n, w;
@@ -21,23 +21,16 @@ int main(){
   // rep(i,n)cin>>vs[i];
 
   for(int i=0; i<n; i++){
-    rep(j,w+1){
-      if(j-ws[i]>=0){
-        dp[i+1][j] = max( dp[i][j], dp[i][j-ws[i]]+vs[i]);
-      }else{
-        dp[i+1][j] = dp[i][j];
-      }
+    for(int j=w; j>=ws[i]; j--){
+      dp[j] = max( dp[j], dp[j-ws[i]]+vs[i]);
 
-      rep(i,n+1){
-        rep(j,w+1)cout<<dp[i][j]<<' ';
-        cout<<endl;
-      }
+      rep(i,w+1)cout<<dp[i]<<' ';cout<<endl;
       cout<<"-----------"<<endl;
-    }
 
+    }
   }
 
-  cout<<dp[n][w];
+  cout<<dp[w];
 
   return 0;
 }
