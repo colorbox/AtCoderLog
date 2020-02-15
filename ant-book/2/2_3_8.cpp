@@ -7,7 +7,6 @@ using namespace std;
 int n=3, m=3;
 int a[] = {1,2,3};
 
-
 int main(){
   int dp[n+1][m+1];
   memset(dp, 0, sizeof(dp));

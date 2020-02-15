@@ -158,7 +158,7 @@ If take long time to solve, add comment to `long time` or so.
 | [148](https://atcoder.jp/contests/abc148/tasks) | o | o | o | o | x |  |
 | [149](https://atcoder.jp/contests/abc149/tasks) | o | o | o | o | x |  |
 | [150](https://atcoder.jp/contests/abc150/tasks) |  |  |  |  |  |  |
-| [151](https://atcoder.jp/contests/abc151/tasks) | o | o | o | o |  |  |
+| [151](https://atcoder.jp/contests/abc151/tasks) | o | o | o | o | o |  |
 | [152](https://atcoder.jp/contests/abc152/tasks) | o | o | o | o |  |  |
 | [153](https://atcoder.jp/contests/abc153/tasks) | o | o | o | o |  |  |
 | [154](https://atcoder.jp/contests/abc154/tasks) | o | o | o | o |  |  |

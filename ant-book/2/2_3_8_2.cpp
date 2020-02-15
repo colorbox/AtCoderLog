@@ -39,11 +39,7 @@ int main(){
         print_arr(*dp, m+1, n+1);
       }
     }
-
-    
-
   }
 
  cout << dp[n][m] << endl;
-
 }

@@ -14,6 +14,7 @@ int main(){
   vector<ll> a({4, 2, 3, 1, 8});
 
   vector<ll> dp(n, MOD);
+  // dp[i]:長さがi+1であるようなLISにおける最終要素の最小値
   rep(i,n){
     *lower_bound(dp.begin(), dp.end(), a[i]) = a[i];
   }
