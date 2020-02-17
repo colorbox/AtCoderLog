@@ -162,6 +162,7 @@ If take long time to solve, add comment to `long time` or so.
 | [152](https://atcoder.jp/contests/abc152/tasks) | o | o | o | o |  |  |
 | [153](https://atcoder.jp/contests/abc153/tasks) | o | o | o | o |  |  |
 | [154](https://atcoder.jp/contests/abc154/tasks) | o | o | o | o |  |  |
+| [154](https://atcoder.jp/contests/abc155/tasks) | o | o | o | x |  |  |
 
 
 ## ARC
