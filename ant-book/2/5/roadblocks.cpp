@@ -50,6 +50,7 @@ int main(){
       ll to = p.second;
       ll move_cost = p.first;
       ll current_cost = from_cost + move_cost;
+
       if(d[to] > current_cost){
         swap(current_cost, d[to]);
         q.emplace(d[to], to);
@@ -58,7 +59,19 @@ int main(){
         d2[to] = current_cost;
         q.emplace(d2[to], to);
       }
+
+      // if(d2[to] > current_cost){
+      //   d2[to] = current_cost;
+      //   if(d[to] > d2[to]){
+      //     swap(d[to], d2[to]);
+      //     q.emplace(d[to], to);
+      //   }else{
+      //     q.emplace(d2[to], to);
+      //   }
+      // }
     }
+  // rep1(i, n)cout<<d[i]<<' ';cout<<endl;
+  rep1(i, n)cout<<d2[i]<<' ';cout<<endl;
   }
 
   cout<<d[n]<<' '<<d2[n]<<endl;
