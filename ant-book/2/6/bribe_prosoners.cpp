@@ -14,6 +14,8 @@
 
 using namespace std;
 
+int dp[101][102];
+
 int main(){
   // int p=20,q=3;
   // vector<int>a({3, 6, 14});
@@ -22,27 +24,34 @@ int main(){
   // vector<int>a({3});
 
   int p,q;cin>>p>>q;
-  vector<int>a(q);
-  rep(i, q)cin>>a[i];
+  vector<int>a(q+2);
+  a[0]=0;
+  a[q+1]=q+1;
+  rep1(i, q)cin>>a[i];
+  
+  // rep(i, q+1)dp[i][i+1]=0;
 
-  sort(a.begin(), a.end());
+  for(int w=2; w<=q+1; w++){
+    for(int i=0; i+w<=q+1; i++){
+      int t = 1000000;
+      int j = i+w;
 
-  int result=0;
-  int l=0, r=p;
-  int al=0, ar=q-1;
-  rep(i, q){
-    if(a[al]-l > r-a[ar]){
-      result += (r-l-1);
-      l=a[al]+1;
-      al++;
-    }else{
-      result += (r-l-1);
-      r = a[ar]-1;
-      ar--;
+      for(int k=i+1; k<j; k++){
+        t = min(t, dp[i][k] + dp[k][j]);
+      }
+
+      dp[i][j] = t + (a[j] - a[i] - 2);
+
+      // rep(i, q+1){
+      //   rep(j, q+2)cout<<dp[i][j]<<' ';
+      //   cout<<endl;
+      // }
+      // cout<<"#####"<<endl;
+
     }
   }
 
-  cout<<result<<endl;
+  cout<<dp[0][q+1]<<endl;
 
   return 0;
 }
