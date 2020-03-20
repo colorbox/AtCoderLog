@@ -30,7 +30,7 @@ bool bashable(int i, int j){
 
 int solve(){
   rep(i, n-1)dp[i][i+1] = bashable(i, i+1) ? 2 : 0;
-  for(int len=4; len<=n; len+=2){
+  for(int len=4; len<=n; len++){
     rep(from, n-len+1){
       int to = from+len-1;
 
@@ -41,11 +41,13 @@ int solve(){
       for(int m=from; m<=to;m++){
         dp[from][to] = max(dp[from][to], dp[from][m]+dp[m+1][to]);
       }
+
+      // rep(i, n){rep(j, n)cout<<dp[i][j]<<' ';cout<<endl;}cout<<endl;
+
     }
   }
 
-  if(n%2) return max(dp[0][n-2], dp[1][n-1]);
-  else return dp[0][n-1];
+  return dp[0][n-1];
 }
 
 int main(){
@@ -58,7 +60,7 @@ int main(){
     int result = solve();
     cout<<result<<endl;
 
-// rep(i, n){rep(j, n)cout<<dp[i][j]<<' ';cout<<endl;}
+// rep(i, n){rep(j, n)cout<<dp[i][j]<<' ';cout<<endl;}cout<<endl;
 
   }
 
