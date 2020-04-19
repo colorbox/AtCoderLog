@@ -14,17 +14,15 @@
 
 using namespace std;
 
-int extgcd(int a, int b, int &x, int &y){
-  int d = a;
+void extgcd(int a, int b, int &x, int &y){
   if(b==0){
     x=1;
     y=0;
   }else{
-    d = extgcd(b, a%b, y, x);
+    extgcd(b, a%b, y, x);
     y -= (a/b) * x;
-    cout<<x<<' '<<y<<endl;
+    cout<<x<<' '<<y<<'|'<<a<<' '<<b<<endl;
   }
-  return d;
 }
 
 int main(){
@@ -33,7 +31,7 @@ int main(){
   a=4,b=11;
 
   int x,y;
-  int d = extgcd(a, b, x, y);
+  extgcd(a, b, x, y);
 
   cout<<x<<' '<<y<<endl;
 
