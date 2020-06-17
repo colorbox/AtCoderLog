@@ -30,9 +30,10 @@ void init(int k, int l, int r) {
 }
 
 void change(int p, double add, int k, int l, int r) {
+    cout<<2*k+1<<' '<<2*k+2<<endl;
+
     if (p <= l || p >= r) return;
     int m = (l+r) / 2;
-    // cout<<2*k+1<<' '<<2*k+2<<endl;
     change(p, add, 2*k+1, l, m);
     change(p, add, 2*k+2, m, r);
     if (p <= m) ang[k] += add;
@@ -50,9 +51,9 @@ int main() {
         for (int i = 0; i < N; i++) scanf("%d", L+i);
         for (int i = 0; i <= N; i++) pre[i] = PI;
         init(0, 0, N);
-            rep(i, N)cout<<vx[i]<<' '; cout<<endl;
-            rep(i, N)cout<<vy[i]<<' '; cout<<endl;
-            rep(i, N)cout<<ang[i]<<' '; cout<<endl;
+            rep(i, pow(2,N)-1)cout<<vx[i]<<' '; cout<<endl;
+            rep(i, pow(2,N)-1)cout<<vy[i]<<' '; cout<<endl;
+            rep(i, pow(2,N)-1)cout<<ang[i]<<' '; cout<<endl;
             cout<<endl;
             cout<<"===="<<endl;
 
@@ -63,13 +64,16 @@ int main() {
             double add = deg-pre[x];
             change(x, add, 0, 0, N);
 
-            rep(i, N)cout<<vx[i]<<' '; cout<<endl;
-            rep(i, N)cout<<vy[i]<<' '; cout<<endl;
-            rep(i, N)cout<<ang[i]<<' '; cout<<endl;
+            cout<<"-------"<<endl;
+
+            rep(i, pow(2,N)-1)cout<<vx[i]<<' '; cout<<endl;
+            rep(i, pow(2,N)-1)cout<<vy[i]<<' '; cout<<endl;
+            rep(i, pow(2,N)-1)cout<<ang[i]<<' '; cout<<endl;
             cout<<endl;
 
             pre[x] = deg;
             printf("%.2lf %.2lf\n", vx[0], vy[0]);
+            cout<<"============="<<endl;
         }
     }
     return 0;
@@ -86,6 +90,12 @@ int main() {
 2 1
 10 5
 1 90
+
+4 3
+1 1 1 1
+1 90
+2 90
+3 90
 
 
 */
